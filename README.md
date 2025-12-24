@@ -1,4 +1,3 @@
-# somia-afify-data-science-portfolio
 # 🧠 Somia Afify — Data Science Portfolio
 
 Welcome to my Data Science portfolio!  

@@ -9,7 +9,7 @@ I am passionate about turning data into insights, building practical ML solution
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Garbage Classification using CNN & Transfer Learning
+###  [1️⃣ Garbage Classification using CNN & Transfer Learning]([https://www.example.com](https://github.com/somia-moslhy/somia-afify-data-science-portfolio/edit/main/README.md))
 A computer-vision project where I built and evaluated CNN models to classify waste images into recycling categories. Focused on data augmentation, transfer learning, and fine-tuning to improve accuracy.
 
 **Tech:** Python, TensorFlow/Keras, CNN, Transfer Learning, Image Augmentation  
